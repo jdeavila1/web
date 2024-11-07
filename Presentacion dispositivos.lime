@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.3">
+    <config>
+        <tag>pp</tag>
+          <recursos>$C:\Users\HP\OneDrive\Desktop\edilim564\img\</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+          <corfondo>FFFF80</corfondo>
+        <corbanda>FFFFFF</corbanda>
+        <cornavega>FFFFFF</cornavega>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+          <titulo>Dispositivos de entrada y salida</titulo>
+          <autor>Jaime De Avila</autor>
+          <iden>si</iden>
+        <logo>..\img\not-0000000033_logos-responsive.jpg</logo>
+          <informe>1</informe>
+          <botonson>0</botonson>
+          <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="..\img\" modo="1" >CORRECTO</correcto>
+        <incorrecto son="..\img\" modo="1" >INCORRECTO</incorrecto>
+        <caracteres>jj</caracteres>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <imaxe>..\img\EDIT PAINT.jpg</imaxe>
+              <forma>0</forma>
+              <cfondo>FFFF80</cfondo>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <texto posx="77" posy="13" ancho="420" largo="289"><![CDATA[<br><p align="left"><br><font color="#000000" face="Arial" size="20"><b>¿EN QUÉ CONSISTEN?</b><br><br></font><font color="#000000" face="Arial" size="28">Los dispositivos de entrada son aquellos que permiten al usuario ingresar datos e instrucciones a la computadora, como el teclado, el ratón y el escáner. Los dispositivos de salida, en cambio, muestran o entregan el resultado del procesamiento de la computadora al usuario, como el monitor, la impresora y los altavoces. Ambos tipos de dispositivos son esenciales para la interacción entre el usuario y el sistema informático.<br><br></font></p><br><iframe width="560" height="315" src="https://www.youtube.com/embed/T1abc6Qtzvw?si=aVXF_dcodoUTo0l9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="3" >
+              <tipo>4</tipo>
+              <modo>2</modo>
+              <sopa enun="..\img\360_F_893094403_eBzoocLtpIVsJAd0xlDFt8LpcuL9Umja.jpg">mando</sopa>
+              <sopa enun="..\img\5655.jpg_wh860.jpg">raton</sopa>
+              <sopa enun="..\img\71i-sGZ1EGL._AC_UF1000,1000_QL80_.jpg">camara </sopa>
+              <sopa enun="..\img\impresora-epson-workforce-wf-2840dwf.jpg">teclado</sopa>
+              <sopa enun="..\img\51qwomLgHCL._AC_SL1416_.jpg">altavoces</sopa>
+              <sopa enun="..\img\ASUS_ASUS_WEBCAM_C3.jpg">pantalla</sopa>
+              <sopa enun="..\img\Philips-279C9.jpg">impresora</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>1</cadro>
+        </paxina>
+        <paxina id="4" >
+              <tipo>1</tipo>
+              <imaxe>..\img\ilustracion-vectorial-comunicacion-palabras-tecnicas-confuso-dialogo-burbujas-discurso_675567-2983.jpg</imaxe>
+              <texto>¿Cuál de estos es un dispositivo de entrada?</texto>
+              <resp texto="" valor="0">Pantalla</resp>
+              <resp texto="" valor="1">Teclado</resp>
+              <resp texto="" valor="0">Una mesa</resp>
+              <resp texto="" valor="0">Altavoces</resp>
+        </paxina>
+        <paxina id="5" >
+              <tipo>1</tipo>
+              <imaxe>..\img\get-ideas-and-answers-to-questions-free-vector.jpg</imaxe>
+              <texto>¿Qué dispositivo se usa para digitalizar documentos físicos?</texto>
+              <resp texto="" valor="1">Escaner</resp>
+              <resp texto="" valor="0">Impresora</resp>
+              <resp texto="" valor="0">Proyector</resp>
+              <resp texto="" valor="0">Unidad de CD</resp>
+        </paxina>
+    </libro>
+</lim>
