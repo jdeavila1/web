@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>imagenes</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>0080FF</corfondo>
+        <corbanda>FF0000</corbanda>
+        <cornavega>FF0000</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Dispositivos </titulo>
+        <autor>Jaime De Avila</autor>
+        <imaxefondo posx="-56" posy="-4" trans="100">Captura_de_pantalla_2024-10-31_173613.jpg</imaxefondo>
+        <informe>1</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>3</tipo>
+              <imaxe>Captura_de_pantalla_2024-10-31_173613.jpg</imaxe>
+              <imfondo  trans="0">Captura_de_pantalla_2024-10-31_173613.jpg</imfondo>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="2" >
+              <tipo>4</tipo>
+              <modo>1</modo>
+              <sopa enun="mando">mando</sopa>
+              <sopa enun="raton">raton</sopa>
+              <sopa enun="camara web">camara web</sopa>
+              <sopa enun="teclado">teclado</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="3" >
+              <tipo>17</tipo>
+              <parellas>360_F_893094403_eBzoocLtpIVsJAd0xlDFt8LpcuL9Umja.jpg</parellas>
+              <parellas>5655.jpg_wh860.jpg</parellas>
+              <parellas>51qwomLgHCL._AC_SL1416_.jpg</parellas>
+              <parellas>ASUS_ASUS_WEBCAM_C3.jpg</parellas>
+              <cfondo>0080FF</cfondo>
+              <ctapa>000000</ctapa>
+              <tempo>60</tempo>
+        </paxina>
+    </libro>
+</lim>
